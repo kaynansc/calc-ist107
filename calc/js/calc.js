@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "Test my new name"
+document.getElementById("nameId").textContent = "Kaynan | Test push via github action"
 
 //Dynamic background color change
 const color = ['#F0E68C', '#FFDAB9', '#FFE4B5', '#D8BFD8', '#B0E0E6', '#AFEEEE', '#E0FFFF', '#98FB98', '#FFDEAD', '#F5DEB3'];
